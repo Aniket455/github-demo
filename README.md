@@ -1,5 +1,3 @@
 # github-demo
 this is a demo repository.
-
-
-@Author - Aniket Gupta
+@Author - Aniket Gupta (smarte)
